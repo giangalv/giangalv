@@ -1,10 +1,12 @@
 ## Welcome to my GitHub! 🚀
 
-Being a creative and detail-oriented engineer in **Robotics and Industrial Engineering**, I am enthusiastic about using cutting-edge technology to develop effective solutions with a significant impact. Having a strong background in industrial engineering and a constant evolution in robotics, I am adept at merging innovation with technical knowledge to address intricate problems.
+I'm a robotics researcher at the University of Genoa, where I also earned my Master's in Robotics Engineering (after a Bachelor's in Industrial Automation Engineering at the University of Brescia).
 
-Here, you can see examples of my expertise in **robotics, automation, and programming**, which demonstrate my commitment to innovation and ongoing education. 🤖
+My work focuses on mobile robotics, autonomous navigation, and learning-based control, with hands-on experience on quadrupeds (Unitree Go2) and mobile manipulators (MiR250 + UR5e).
 
-Let's come together and create the future as one! 🌟
+Here you'll find examples of my work in robotics, automation, and programming. 🤖
+
+Let's build the future together! 🌟
 
 <!--
 ![Header](./your-header-image-name.png) carica la foto 
